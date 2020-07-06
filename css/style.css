@@ -1,0 +1,14 @@
+.icon-block {
+    padding: 0 15px;
+  }
+  .icon-block .material-icons {
+      font-size: inherit;
+  }
+
+  .w-15{
+  width: 152px;
+  border-radius: 10px;
+  }
+  .w-15>a{
+  border-radius: 10px;
+  }
